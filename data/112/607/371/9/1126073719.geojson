@@ -60,7 +60,6 @@
         85676651,
         102191577,
         85632355,
-        1108952591,
         421166713
     ],
     "wof:breaches":[],
@@ -77,7 +76,6 @@
             "continent_id":102191577,
             "country_id":85632355,
             "county_id":421166713,
-            "locality_id":1108952591,
             "neighbourhood_id":1126073719,
             "region_id":85676651
         }
@@ -85,7 +83,7 @@
     "wof:id":1126073719,
     "wof:lastmodified":1566609611,
     "wof:name":"Banco San Miguel",
-    "wof:parent_id":1108952591,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-py",
     "wof:superseded_by":[],
